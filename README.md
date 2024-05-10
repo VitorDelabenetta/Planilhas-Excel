@@ -19,6 +19,8 @@ Estes dashboards foram realizados inteiramente por mim, tendo sido um meio para 
 
 Para uma pré-visualização do projeto, deixarei abaixo algumas imagens dos dashboards que se encontram disponíveis na extensão .xlsx dentro da pasta de <a href="./assets/planilhas/">planilhas</a>.
 
+<br>
+
 <img src="./assets/imagens/Dashboard-Catalogo.png" alt="dashboard-catalogo-livros" style="width: 100%"/>
 
 <i>Dashboard para gerenciamento e organização de livros para biblioteca pessoal.</i>
